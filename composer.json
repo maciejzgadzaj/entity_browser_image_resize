@@ -1,0 +1,9 @@
+{
+    "name": "zgadzaj/entity_browser_image_resize",
+    "type": "drupal-module",
+    "description": "Automatically resizes original images uploaded using Entity Browser module.",
+    "homepage": "http://zgadzaj.com/",
+    "license": "GPL-2.0+",
+    "minimum-stability": "dev",
+    "require": {}
+}

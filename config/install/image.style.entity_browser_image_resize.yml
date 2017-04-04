@@ -1,0 +1,14 @@
+langcode: en
+status: true
+dependencies: {  }
+name: entity_browser_image_resize
+label: 'Entity Browser Image Resize'
+effects:
+  d12f0606-bcc6-402b-b3ec-0012a1492d8b:
+    uuid: d12f0606-bcc6-402b-b3ec-0012a1492d8b
+    id: image_scale
+    weight: 1
+    data:
+      width: 1000
+      height: null
+      upscale: false
